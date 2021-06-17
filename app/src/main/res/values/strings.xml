@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">proyectoMinijuegos</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="stVor">Verdad o Reto</string>
+    <string name="stYn">Yo nunca</string>
+    <string name="stIniciar">Iniciar</string>
+    <string name="stSiguiente">SIGUIENTE</string>
+    <string name="stVerdad">Verdad</string>
+    <string name="stReto">Reto</string>
+    <string name="stVoRExplica" />
+    <string name="stVoRElige">¡Elige una opción!</string>
+    <string name="stVoR">Verdad o Reto</string>
+    <string name="stEjemplo">\"TEXTO EJEMPLO\"</string>
+    <string name="stAcercade">Acerca de...</string>
+    <string name="stMinijuegos">¡Minijuegos!</string>
+    <string name="tvVoRExplicacion">Cada jugador por turnos puede escoger entre verdad o reto. ¡Elige y afronta el desafío!</string>
+    <string name="stYoNunca">Yo Nunca</string>
+    <string name="stYoNuncaExplicacion" />
+    <string name="stYNExplicacion">Lee en alto cada frase. ¡los que lo hayan hecho deben ser castigados!</string>
+</resources>
